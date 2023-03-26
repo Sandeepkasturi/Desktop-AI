@@ -49,7 +49,6 @@ def wishMe():
         speak("Good Evening Sir !")
 
     assname = ("Rolex")
-    phone = ('9550337558')
     speak("I am your Assistant")
     speak(assname)
 
